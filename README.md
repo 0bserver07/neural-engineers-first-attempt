@@ -1,5 +1,9 @@
 # Neural Engineers TF
-###### collaboration between: [Ethan Caballero](https://github.com/ethancaballero), [Yad Faeq](https://github.com/0bserver07), [Andy Zhang](https://github.com/ZhangBanger), [Alex Skidanov](https://github.com/SkidanovAlex)
+###### collaboration between: 
+- [Ethan Caballero](https://github.com/ethancaballero), 
+- [Yad Konrad](https://github.com/0bserver07), 
+- [Andy Zhang](https://github.com/ZhangBanger), 
+- [Alex Skidanov](https://github.com/SkidanovAlex)
 ---
 
 NE implementation in TensorFlow for learning to engineer.
